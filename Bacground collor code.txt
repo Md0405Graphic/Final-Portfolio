@@ -1,0 +1,7 @@
+Section	Background	Highlight
+Hero Banner	#121212	Button Yellow
+Body Background	#F7F3FB	Purple Headings
+Skills Section	#E8DBF4	Icons in Yellow
+Work Section	#F1E7FA	Project Cards
+Contact Section	#D9CDE4	CTA Button Yellow
+Footer	#3A0F4A	Text in #F2F2F2
